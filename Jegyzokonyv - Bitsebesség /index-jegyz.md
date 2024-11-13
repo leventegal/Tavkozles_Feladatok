@@ -60,6 +60,6 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ## 8. Grafikus ábrázolás
 A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
 
-![Jelszint és MER ábrázolás](https://erosbence27.github.io/jegyzokonyv/image/asd.PNG) 
+![Jelszint](https://leventegal.github.io/Tavkozles/Jegyzokonyv - Bitsebesség/image/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg) 
 
 ---
