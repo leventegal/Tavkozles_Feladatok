@@ -1,3 +1,4 @@
+
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Gál Levente Máté
@@ -29,8 +30,8 @@ A hallgatók megismerjék a Johansson 8202 DVB-T modulátor további képessége
 
 ## 4. Különböző bitsebességen mért adatok.
 
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
+| Frekvencia (MHz) | Johansson        | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **674 MHz**      | Tv1              | -61.8          | 24.6     | 8.2 – 8.6          |
-| **682 MHz**      | Tv2              | -59.0          | 26.6     | 8.2 – 9.2          |
+| **674 MHz**      | Tv1              | -30.2          | 37.0     | 10.8 – 14.5        |
+| **682 MHz**      | Tv2              | -32.1          | 33.2     | 7.2 – 8.3         |
 | **682 MHz**      | Tv2              | -56.0          | 24.0     | 8.4 – 9.0          |
