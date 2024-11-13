@@ -1,10 +1,10 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Gál Levente Máté
-**A mérés tárgya:** A különböző bitsebesség milyen hatással van a jelminőségre.
+**A mérést végző neve:** Gál Levente Máté  
+**A mérés tárgya:** A különböző bitsebesség milyen hatással van a jelminőségre.  
 **A mérés száma:** 2. mérés  
-**A mérés dátuma:** 2024. 11. 13.
+**A mérés dátuma:** 2024. 11. 13.  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
