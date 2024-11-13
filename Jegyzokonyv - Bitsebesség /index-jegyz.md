@@ -46,12 +46,14 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ---
 
 ## 6. Konklúzió
-Az elvégzett mérés alapján az **ISKRA P2845** antenna bizonyult a legerősebbnek mind a jelszint, mind a **MER** és bitsebesség tekintetében. Az **IKUSI FLASHD C48** szintén jól teljesített, míg az **ISKRA P20** gyengébb eredményeket mutatott. Az antennák közötti különbségek egyértelműen megmutatkoznak a különböző frekvenciákon, különösen 570 MHz-en, ahol a legnagyobb teljesítménykülönbség volt tapasztalható.
+
+
 
 ---
 
 ## 7. Mérési nehézségek és eltérések
-A mérések során a labor környezetében tapasztalt esetleges zajok és interferenciák befolyásolhatták a jelszintek pontos mérését. Emellett a mérési eredmények kis mértékű eltéréseket mutathatnak az antennák pozíciójának változása miatt.
+
+
 
 ---
 
