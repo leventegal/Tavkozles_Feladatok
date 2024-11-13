@@ -33,5 +33,13 @@ A hallgatók megismerjék a Johansson 8202 DVB-T modulátor további képessége
 | Frekvencia (MHz) | Johansson        | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
 | **674 MHz**      | Tv1              | -30.2          | 37.0     | 10.8 – 14.5        |
-| **682 MHz**      | Tv2              | -32.1          | 33.2     | 7.2 – 8.3         |
-| **682 MHz**      | Tv2              | -56.0          | 24.0     | 8.4 – 9.0          |
+| **682 MHz**      | Tv2              | -32.1          | 33.2     | 7.2 – 8.3          |
+| **682 MHz**      | Tv2              | -32.5          | 40.0     | 15.2 – 18.4        |
+
+---
+
+## 5. Mérési eredmények elemzése
+Az adatok alapján az alábbi következtetéseket lehet levonni:
+- **Jelszint (dBm)**:
+- **MER (Modulation Error Ratio)**: 
+- **Bitsebesség**: 
