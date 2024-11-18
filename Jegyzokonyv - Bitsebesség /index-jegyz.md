@@ -38,6 +38,48 @@ A hallgatók megismerjék a Johansson 8202 DVB-T modulátor további képessége
 
 ---
 
+### Mért képek:
+
+<details>
+    <summary>Grafikus ábrázolás:</summary>
+    Kép:   A jelszint érték vizuális ábrázolását az alábbi diagramok mutatják be:
+   <img src="https://leventegal.github.io/Tavkozles/Jegyzokonyv - Bitsebesség /images/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg>
+</details>
+
+<br>
+
+<details>
+    <summary>ISKRA P2845:</summary>
+    2. kép: 490 MHz  
+    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0002.bmp"/>
+</details>
+
+<br>
+
+<details>
+    <summary>IKUSI FLASHD C48:</summary>
+    Kép: 490 MHz  
+    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0003.bmp"/>
+</details>
+
+<br>
+
+<details>
+    <summary>Grafikon:</summary>
+    Kép: 490 MHz  
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp.png"/>
+</details>
+
+<br>
+
+<details>
+    <summary>Diagram:</summary>
+    Kép: 490 MHz  
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0005.bmp.png"/>
+</details>
+
+---
+
 ## 5. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 - **Jelszint (dBm)**:
