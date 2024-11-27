@@ -51,20 +51,13 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
 2. A Johansson 8202 DVB-T modulátor különböző bitsebességeken tesztelve lett a jelminőség mérve.   
 3. A jelanalizátorral minden beállításhoz tartozó jelminőség mérését elvégeztük.   
 
-### Mért képek:
+### 6. Mért képek:
 
 <details>
     <summary>Grafikus ábrázolás</summary>
     ![d553cce9-92d5-4cbb-8faa-159b6424967b](https://github.com/user-attachments/assets/c15d6007-de6b-49cc-a4f1-bdfa722fd45a)
 </details>
 
----
-
-## 6. Mérési eredmények elemzése
-Az adatok alapján az alábbi következtetéseket lehet levonni:
-- **Jelszint (dBm)**:
-- **MER (Modulation Error Ratio)**: 
-- **Bitsebesség**: 
 ---
 
 ## 7. Konklúzió
