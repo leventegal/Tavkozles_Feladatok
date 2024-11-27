@@ -55,7 +55,7 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
 
 <details>
     <summary>Grafikus ábrázolás</summary>
-    ![d553cce9-92d5-4cbb-8faa-159b6424967b](https://github.com/user-attachments/assets/a11ae35c-6dd2-4b7b-90b2-abf48ac75a9b)
+    (https://github.com/user-attachments/assets/a11ae35c-6dd2-4b7b-90b2-abf48ac75a9b)
 
 </details>
 
