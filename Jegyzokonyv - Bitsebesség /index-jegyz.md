@@ -55,30 +55,44 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
 
 <details>
     <summary>Grafikus ábrázolás</summary>
-    (https://github.com/user-attachments/assets/a11ae35c-6dd2-4b7b-90b2-abf48ac75a9b)
-
+    ![d553cce9-92d5-4cbb-8faa-159b6424967b](https://github.com/user-attachments/assets/c15d6007-de6b-49cc-a4f1-bdfa722fd45a)
 </details>
 
 ---
 
-## 5. Mérési eredmények elemzése
+## 6. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 - **Jelszint (dBm)**:
 - **MER (Modulation Error Ratio)**: 
 - **Bitsebesség**: 
 ---
 
-## 6. Konklúzió
+## 7. Konklúzió
 
- - A mérések során kezünkbe került a **Johansson 8202 DVB-T modulátor**, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, és a jelszint, bitsebesség, valamint a MER értékek a várakozásoknak megfelelően alakultak.
+ - A mérések során kezünkbe került a **Johansson 8202 DVB-T modulátor**, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, a jelszint, bitsebesség, valamint a MER értékek a prímán alakultak.
 
- - Azonnal láthatóvá válik, hogy a TV1 Pongo magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 Erős jobb MER értékkel bír.
+ - Azonnal láthatóvá válik, hogy a TV1 magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 jobb MER értékkel rendelkezik.
 
-- A mérések alapján megfigyelhető, hogy a bitsebesség növekedésével a jelminőség fokozatosan csökkent. A legmagasabb jelminőséget alacsony bitsebességnél értük el, ahol a zaj mértéke még elfogadható szinten maradt. Az eredmények alapján javasolható, hogy nagyobb stabilitás érdekében a rendszer optimális működése alacsonyabb bitsebességeken biztosított.
+- A mérések alapján megfigyelhető, hogy a bitsebesség növekedésével a jelminőség lassacskán csökken. A legmagasabb jelminőséget alacsonyabb bitsebességnél értük el, ahol a zaj mértéke még elfogadható szinten maradt.
+
+---
+
+#### 8. További mérések javaslata:
+1. **Különfajta bitsebesség**: Vizsgáljuk meg, hogy különfajta bitsebességek hogyan azonosulnak a jelszintel.
+2. **Hőmérséklet és környezeti feltételek hatása**: Érdemes a méréseket különböző környezeti feltételek mellett (pl. hőmérséklet-ingadozás) is elvégezni, hogy megismerjük, hogyan változik a jelminőség extrém körülmények között.
 
 ---
 
-## 7. Mérési nehézségek és eltérések
+### 9. Összegzés
+
+A jegyzőkönyvben rögzített mérés célja a **Johansson 8202 DVB-T** modulátor által előállított jelminőség vizsgálata volt különböző bitsebességek mellett. Az eredmények rámutattak, hogy a nagyobb bitsebességek negatívan befolyásolják a jelminőséget, amit a zajszint (SNR) csökkenése is igazolt. A vizsgált bitsebességek közül a 10 Mbps körüli érték nyújtotta a legjobb kompromisszumot a jelminőség és a sebesség között, így elfogadható teljesítményt eredményezett.
+
+További vizsgálatok, például különböző antennák tesztelése, zajforrások hatásának elemzése, valamint eltérő környezeti feltételek figyelembevétele révén még pontosabban feltárható a bitsebesség és a jelminőség közötti összefüggés. A jegyzőkönyv összességében értékes betekintést nyújt a DVB-T technológia alapvető működésébe, és fontos alapot szolgáltat az optimális beállítások megtalálásának folyamatához.
 
 
 ---
+
+
+**Aláírás:** Gál Levente Máté
+
+**Dátum:** 2024. 11. 13.
