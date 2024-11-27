@@ -55,7 +55,6 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
 
 <details>
     <summary>Grafikus ábrázolás:</summary>
-    A jelszint érték vizuális ábrázolását az alábbi diagramok mutatják be:
     ![d553cce9-92d5-4cbb-8faa-159b6424967b](https://github.com/user-attachments/assets/0118725c-349a-4d4a-8983-4709e8ecb880)
 </details>
 
