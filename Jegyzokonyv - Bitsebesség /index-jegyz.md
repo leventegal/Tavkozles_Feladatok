@@ -58,6 +58,12 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
     <img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg">
 </details>
 
+<details>
+    <summary>Grafikus ábrázolás</summary>
+    <img src="https://github.com/leventegal/Tavkozeles/blob/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/its_snapshot_0025.bmp">
+</details>
+
+
 ---
 
 ## 7. Konklúzió
