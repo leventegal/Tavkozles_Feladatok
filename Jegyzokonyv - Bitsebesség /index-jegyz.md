@@ -6,7 +6,7 @@
 
 **A mérést végző neve:** Gál Levente Máté  
 **A mérés tárgya:** A különböző bitsebesség milyen hatással van a jelminőségre.  
-**A mérés száma:** 2. mérés  
+**A mérés száma:** 5. mérés  
 **A mérés dátuma:** 2024. 11. 13.  
 **A mérést vezette:** Sándor Péter  
 
@@ -54,40 +54,9 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
 ### Mért képek:
 
 <details>
-    <summary>Grafikus ábrázolás:</summary>
-    ![d553cce9-92d5-4cbb-8faa-159b6424967b](https://github.com/user-attachments/assets/0118725c-349a-4d4a-8983-4709e8ecb880)
-</details>
+    <summary>Grafikus ábrázolás</summary>
+    ![d553cce9-92d5-4cbb-8faa-159b6424967b](https://github.com/user-attachments/assets/a11ae35c-6dd2-4b7b-90b2-abf48ac75a9b)
 
-<br>
-
-<details>
-    <summary>ISKRA P2845:</summary>
-    2. kép: 490 MHz  
-    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0002.bmp"/>
-</details>
-
-<br>
-
-<details>
-    <summary>IKUSI FLASHD C48:</summary>
-    Kép: 490 MHz  
-    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0003.bmp"/>
-</details>
-
-<br>
-
-<details>
-    <summary>Grafikon:</summary>
-    Kép: 490 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp.png"/>
-</details>
-
-<br>
-
-<details>
-    <summary>Diagram:</summary>
-    Kép: 490 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0005.bmp.png"/>
 </details>
 
 ---
@@ -101,7 +70,11 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 ## 6. Konklúzió
 
+ - A mérések során kezünkbe került a **Johansson 8202 DVB-T modulátor**, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, és a jelszint, bitsebesség, valamint a MER értékek a várakozásoknak megfelelően alakultak.
 
+ - Azonnal láthatóvá válik, hogy a TV1 Pongo magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 Erős jobb MER értékkel bír.
+
+- A mérések alapján megfigyelhető, hogy a bitsebesség növekedésével a jelminőség fokozatosan csökkent. A legmagasabb jelminőséget alacsony bitsebességnél értük el, ahol a zaj mértéke még elfogadható szinten maradt. Az eredmények alapján javasolható, hogy nagyobb stabilitás érdekében a rendszer optimális működése alacsonyabb bitsebességeken biztosított.
 
 ---
 
