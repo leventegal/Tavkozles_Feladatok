@@ -1,6 +1,9 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
+**Kandó Kálmán Informatikai Technikum**  
+**Miskolc Palóczy u. 3.**
+
 **A mérést végző neve:** Gál Levente Máté  
 **A mérés tárgya:** A különböző bitsebesség milyen hatással van a jelminőségre.  
 **A mérés száma:** 2. mérés  
