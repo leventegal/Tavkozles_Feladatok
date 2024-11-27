@@ -59,10 +59,25 @@ A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük,
 </details>
 
 <details>
-    <summary>Grafikus ábrázolás</summary>
+    <summary>Spektrum Analizátor Kép: TV1</summary>
     <img src="https://github.com/leventegal/Tavkozeles/blob/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/its_snapshot_0025.bmp">
 </details>
 
+<details>
+    <summary>Spektrum Analizátor Kép: TV1</summary>
+    <img src="https://github.com/leventegal/Tavkozeles/blob/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/its_snapshot_0026.bmp">
+    
+</details>
+
+<details>
+    <summary>Spektrum Analizátor Kép: TV2</summary>
+    <img src="https://github.com/leventegal/Tavkozeles/blob/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/its_snapshot_0027.bmp">
+</details>
+
+<details>
+    <summary>Spektrum Analizátor Kép: TV2</summary>
+    <img src="https://github.com/leventegal/Tavkozeles/blob/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/its_snapshot_0028.bmp">
+</details>
 
 ---
 
