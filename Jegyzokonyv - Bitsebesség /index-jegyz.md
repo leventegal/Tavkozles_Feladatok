@@ -31,6 +31,11 @@ A hallgatók megismerjék a Johansson 8202 DVB-T modulátor további képessége
 
 ---
 
+### 3. Előkészületek
+A mérés menete során a Johansson 8202 DVB-T modulátorokat összekötöttük, majd az egyik modulátor **RF-out** pontjára csatlakoztattuk a spektrumanalizátort. Az eszközök megfelelő beállítását követően megkezdtük a mérést.
+
+---
+
 ## 4. Különböző bitsebességen mért adatok.
 
 | Frekvencia (MHz) | Johansson        | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
@@ -40,6 +45,11 @@ A hallgatók megismerjék a Johansson 8202 DVB-T modulátor további képessége
 | **682 MHz**      | Tv2              | -32.5          | 40.0     | 15.2 – 18.4        |
 
 ---
+
+### 5. Mérési folyamat apránként
+1. A mérőeszközök megfelelően lettek összekapcsolva és beállítva a mérés előtt.   
+2. A Johansson 8202 DVB-T modulátor különböző bitsebességeken tesztelve lett a jelminőség mérve.   
+3. A jelanalizátorral minden beállításhoz tartozó jelminőség mérését elvégeztük.   
 
 ### Mért képek:
 
