@@ -51,12 +51,6 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 
 ## 4. Blokkvázlat
 
-![image](image/Blokvazlat_1.PNG)
-
-- **Iskra P-20 Antenna**: az RF jelek vételére
-- **Johansson 6700 Profiler**: az RF jelek erősítésére és szűrésére
-- **Metek HDD Spektrum Analizátor**: az erősített és szűrt jelek vizsgálatára
-
 ---
 
 ## 5. Mérési Adatok és Eredmények
@@ -137,14 +131,14 @@ A mérés során az alábbi problémák kerülhetnek felmerülőbe:
 
 ## 13. Záró Összegzés
 
-A mérés során a **Johansson 6700 Profiler** programozható antennaerősítő-szűrő használatával sikerült a városi környezetben lévő antenna jeleinek kezelését és optimalizálását megvalósítani. A jelerősség és a vételi minőség alapján megállapítható, hogy az eszköz hatékonyan használható a rövid UTP kábelezésű rendszerekben is. Az antennarendszer telepítése megfelelően történt, azonban a jelerősség növelése érdekében javasolt további tesztek elvégzése.
+A viszonylag alacsony, 1,5 méteres antennamagasság következtében a vétel nem volt kielégítő. Az antenna magasabbra helyezése elősegítené a jelerősség növelését és a zavarok csökkentését.
 
 A mérés legfontosabb tanulságai:
 - Az antennák helyes pozicionálása kulcsfontosságú a vétel optimalizálása érdekében.
 - A környezeti hatások jelentős szerepet játszanak a jelerősség és minőség tekintetében.
 - A Johansson 6700 egyszerűen konfigurálható, és a mért eredmények alapján hatékonyan működik.
 
-Az összesített mérések és következtetések alapján a **Johansson 6700 Profiler** megfelelő eszköz a városi antennarendszerek kezelésére, azonban javasolt további méréseket végezni a vétel optimalizálása érdekében.
+Az összesített mérések és következtetések alapján a Johansson 6700 Profiler hatékony eszköz a városi antennarendszerek kezelésére, azonban a vétel optimalizálása érdekében további mérések elvégzése javasolt.
 
 ---
 
