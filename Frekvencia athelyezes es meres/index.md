@@ -2,9 +2,9 @@
 
 **A mérést végző neve:** Gál Levente Máté  
 **A mérés tárgya:** Programozható Antennaerősítő-szűrő használata 
-**A mérés száma:** 7. mérés  
-**A mérés dátuma:** 2024. 11. 27.
-**A mérést vezette:** Sándor Péter  
+**A mérés száma:** 7. mérés 
+**A mérés dátuma:** 2024. 11. 27. 
+**A mérést vezette:** Sándor Péter 
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 1 
