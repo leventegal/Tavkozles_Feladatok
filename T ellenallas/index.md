@@ -90,9 +90,10 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
   CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyjábol a fele a CH0-nak.
 
 <details>
-<summary>
-<img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/T%20ellenallas/images/390410302-019d4817-a12e-40f1-b3f7-9943edb8771d.png">
-</summary>
+  
+<summary>Kattints a részletekért!</summary>
+  <img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/T%20ellenallas/images/390410302-019d4817-a12e-40f1-b3f7-9943edb8771d.png">
+
 </details>
 
 ![IMG_3206](https://github.com/user-attachments/assets/1eca01f4-fcb8-407b-a809-c1fc802ca057)
