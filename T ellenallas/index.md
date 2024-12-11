@@ -90,6 +90,6 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 ![IMG_3206](https://github.com/user-attachments/assets/1eca01f4-fcb8-407b-a809-c1fc802ca057)
 
-**Aláírás:** Szabó Tamás Tibor
+**Aláírás:** Gál Levente Máté
 
-**Dátum:** 2024.11.27
+**Dátum:** 2024.12.11
