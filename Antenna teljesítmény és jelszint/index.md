@@ -100,11 +100,13 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 <summary>Kattins a részletekért</summary>
 
 **474Mhz Mért Képek:**
+
 <img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg">
 
 ---
 
 **570MHz Mért Képek**
+
 <img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg">
 
 ---
@@ -119,10 +121,12 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 **474Mhz Mért Képek:**
 
+<img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg">
 ---
 
 **570MHz Mért Képek**
 
+<img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/Jegyzokonyv%20-%20Bitsebess%C3%A9g%20/images/d553cce9-92d5-4cbb-8faa-159b6424967b.jpg">
 ---
 
 </details>
