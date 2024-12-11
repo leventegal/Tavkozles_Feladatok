@@ -66,7 +66,7 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
   
 <summary>Kattints a részletekért </summary>
 <img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/T%20ellenallas/images/390412208-da1cbba4-0042-4df3-a802-c5ea1a689f10.png">
-<a target="_blank" href="https://tinyurl.com/27rgeq6c"></a>
+<a target="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/T%20ellenallas/images/390412208-da1cbba4-0042-4df3-a802-c5ea1a689f10.png" href="https://tinyurl.com/27rgeq6c"></a>
 
 </details>
 
