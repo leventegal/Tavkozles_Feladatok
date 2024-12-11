@@ -42,14 +42,19 @@ Az elektronikában a csillapítókat a jel szintjének csökkentésére használ
 <h3>Az ellenállások értékének képlete:</h3>
 
 <details>
+  
 <summary>Kattints a részletekért </summary>
 <img src="https://github.com/leventegal/Tavkozeles/blob/main/T%20ellenallas/images/390411458-6f1eb4c4-6b68-451b-8bc6-b52f0b87d846.png">
+
 </details>
 
 <h3>Behelyettesítve:</h3>
+
 <details>
+  
 <summary>Kattints a részletekért </summary>
 <img src="https://github.com/leventegal/Tavkozeles/blob/main/T%20ellenallas/images/390398992-08469239-b31b-4f84-a100-24f94ad70c49.png">
+
 </details>
 
 ---
