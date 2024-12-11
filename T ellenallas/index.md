@@ -107,6 +107,8 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 </details>
 
+---
+
 **Aláírás:** Gál Levente Máté
 
 **Dátum:** 2024.12.11
