@@ -96,7 +96,12 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 </details>
 
-![IMG_3206](https://github.com/user-attachments/assets/1eca01f4-fcb8-407b-a809-c1fc802ca057)
+<details>
+  
+<summary>Kattints a részletekért!</summary>
+  <img src="https://raw.githubusercontent.com/leventegal/Tavkozeles/refs/heads/main/T%20ellenallas/images/390410617-1eca01f4-fcb8-407b-a809-c1fc802ca057.png">
+
+</details>
 
 **Aláírás:** Gál Levente Máté
 
