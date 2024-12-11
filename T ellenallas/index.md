@@ -47,8 +47,10 @@ Az elektronikában a csillapítókat a jel szintjének csökkentésére használ
 </details>
 
 <h3>Behelyettesítve:</h3>
-
-![kép](https://github.com/user-attachments/assets/08469239-b31b-4f84-a100-24f94ad70c49)
+<details>
+<summary>Kattints a részletekért </summary>
+<img src="(https://github.com/user-attachments/assets/08469239-b31b-4f84-a100-24f94ad70c49)">
+</details>
 
 ---
 
