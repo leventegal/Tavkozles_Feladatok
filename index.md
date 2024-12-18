@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="style.css">
-<div class="kozepre"># Jegyzőkönyvek 2024 </div>
+<div class="kozepre">Jegyzőkönyvek 2024 </div>
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="color: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
 </marquee>
 <marquee class="rainbow-text" behavior="scroll" direction="right" style="rainbow: #d69b1a; font-size: 20px;">
-Gál Levente Máté / 13.E osztály.
+Gál Levente Máté / 1-es Csoport
 </marquee>
 - <span style="color: #d69b1a;">01-es feladat: Bitsebesség, jelminőség mérése</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozeles/Jegyzokonyv - Bitsebesség /index-jegyz)
@@ -22,7 +22,7 @@ Gál Levente Máté / 13.E osztály.
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
 </marquee>
 <marquee class="rainbow-text" behavior="scroll" direction="right" style="rainbow: #d69b1a; font-size: 20px;">
-Gál Levente Máté / 13.E osztály.
+Gál Levente Máté / 1-es Csoport
 </marquee>
 
 
