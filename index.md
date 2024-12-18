@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
-<img src="https://raw.githubusercontent.com/leventegal/Tavkozles_Feladatok/refs/heads/main/images/thumbnail_kando_logo_04c6847e41.jpg">
+<img class="image-container" src="https://raw.githubusercontent.com/leventegal/Tavkozles_Feladatok/refs/heads/main/images/thumbnail_kando_logo_04c6847e41.jpg">
 <div class="kozepre">Jegyzőkönyvek 2024 </div>
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="color: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
