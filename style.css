@@ -11,4 +11,6 @@ body {
   83% { color: indigo; }
   100% { color: violet; }
 }
-
+.rainbow-text {
+  animation: rainbow 2s infinite;
+}
