@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Jegyzőkönyvek 2024 
 - <span style="color: FFFDD0;">01-es feladat: Bitsebesség, jelminőség mérése</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozeles/Jegyzokonyv - Bitsebesség /index-jegyz)
