@@ -23,3 +23,9 @@ body {
 .linkek {
   color: #d69b1a;
 }
+.image-container {
+  background-color: #ebebeb;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
