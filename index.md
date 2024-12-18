@@ -7,7 +7,7 @@ Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
 Gál Levente Máté / 1-es Csoport
 </marquee>
 - <span style="color: #d69b1a;">01-es feladat: Bitsebesség, jelminőség mérése</span>
-<div class="linkek">[Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/Jegyzokonyv - Bitsebesség /index-jegyz)</div>
+## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/Jegyzokonyv - Bitsebesség /index-jegyz)
 ---
 - <span style="color: #d69b1a;">02-es feladat: Frekvencia áthelyezéss és mérés</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/Frekvencia athelyezes es meres/index)
