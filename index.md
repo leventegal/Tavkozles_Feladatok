@@ -2,7 +2,9 @@
 # Jegyzőkönyvek 2024 
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="color: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
-  Gál Levente Máté
+</marquee>
+<marquee class="rainbow-text" behavior="scroll" direction="right" style="rainbow: #d69b1a; font-size: 20px;">
+Gál Levente Máté / 13.E osztály.
 </marquee>
 - <span style="color: #d69b1a;">01-es feladat: Bitsebesség, jelminőség mérése</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozeles/Jegyzokonyv - Bitsebesség /index-jegyz)
@@ -18,7 +20,9 @@ Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
 ---
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="rainbow: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
-    Gál Levente Máté
+</marquee>
+<marquee class="rainbow-text" behavior="scroll" direction="right" style="rainbow: #d69b1a; font-size: 20px;">
+Gál Levente Máté / 13.E osztály.
 </marquee>
 
 
