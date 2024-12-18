@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<div class="kozepre">
 # Jegyzőkönyvek 2024 
 - <span style="color: #d69b1a;">01-es feladat: Bitsebesség, jelminőség mérése</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozeles/Jegyzokonyv - Bitsebesség /index-jegyz)
@@ -12,4 +13,4 @@
 - <span style="color: #d69b1a;">04-as feladat: T Ellenáállás mérés</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozeles/T ellenallas/index)
 ---
-
+</div>
