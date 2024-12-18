@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
-# Jegyzőkönyvek 2024 
+<div class="kozepre"># Jegyzőkönyvek 2024 </div>
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="color: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
 </marquee>
