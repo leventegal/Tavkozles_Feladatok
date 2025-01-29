@@ -1,4 +1,4 @@
-# MÉRÉSI JEGYZŐKÖNYV
+# MÉRÉSI ( Tesztelési ) JEGYZŐKÖNYV
 
 **A mérést végző neve:** Gál Levente Máté  
 **A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
