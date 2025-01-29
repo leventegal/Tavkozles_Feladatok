@@ -42,15 +42,15 @@
 
 ---
 
-### 3. Eszközök előkésztése és telepwítése
+## 3. Eszközök előkésztése és telepwítése
 
-## 3.1 Előkészítés és tervezés
+### 3.1 Előkészítés és tervezés
 
-# 3.2 Eszközök gyári beállításainak visszaállítása (Factory Reset)
+### 3.2 Eszközök gyári beállításainak visszaállítása (Factory Reset)
 
 - A vizsga kezdetén minden eszköz gyári alaphelyzetbe állítása kötelező. Az alábbi lépések végrehajtása szükséges:
 
-# 3.3 Mikrotik LHG18 LTE antenna resetelése:
+### 3.3 Mikrotik LHG18 LTE antenna resetelése:
 
 1. Az eszközt áramtalanítani kell.
 2. A reset gombot lenyomva kell tartani.
@@ -58,21 +58,21 @@
 4. A status LED villogásának megkezdésekor (kb. 5 másodperc) a reset gombot fel kell engedni.
 5. Az eszköz ezzel visszaáll a gyári beállításokra.
 
-# 3.4 Mikrotik nRay 60GHz antennák resetelése:
+### 3.4 Mikrotik nRay 60GHz antennák resetelése:
 
 1. A fent leírt resetelési eljárást kell alkalmazni mindkét antennán (192.168.88.2 és 192.168.88.3 IP-címekkel).
 
-# 3.5 SOHO router (D-LINK, TP-LINK vagy ASUS) resetelése:
+### 3.5 SOHO router (D-LINK, TP-LINK vagy ASUS) resetelése:
 
 1. A reset gomb helyének beazonosítása után az eszközt áramtalanítani kell.
 2. Rövid várakozás után a reset gombot meg kell nyomni és lenyomva tartani.
 3. Az eszköz visszakapcsolása után a reset gombot legalább 10 másodpercig lenyomva kell tartani, amíg a gyári visszaállítás befejeződik.
 
-### 3.2.1 Hálózati topológia tervezése
+# 3.2.1 Hálózati topológia tervezése
 
 A hálózat tervezése során egy diagramot kell készíteni, amely tartalmazza az összes eszközt és azok kapcsolatait. Ehhez javasolt a Draw.io használata.
 
-# 3.2.2 IP-cím kiosztás:
+### 3.2.2 IP-cím kiosztás:
 
 Mikrotik LHG18 LTE: 192.168.88.1
 
