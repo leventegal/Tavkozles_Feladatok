@@ -22,7 +22,7 @@
 
 - **Mikrotik LHG18 LTE antenna** (alapértelmezett IP: `192.168.188.1`)
 
-<img src="https://github.com/user-attachments/assets/3415919b-850d-4f92-bef9-1d0ceaee6b54" alt="nray60" style="width:250px;"/>
+<img src="https://github.com/user-attachments/assets/3415919b-850d-4f92-bef9-1d0ceaee6b54" alt="lhg18lte" style="width:250px;"/>
 
 - **Mikrotik nRay 60GHz mikrohullámú antenna szett** (eszközök IP-címei: `192.168.88.2` és `192.168.88.3`)   
 
@@ -74,16 +74,14 @@ A hálózat tervezése során egy diagramot kell készíteni, amely tartalmazza 
 
 ### 3.2.2 IP-cím kiosztás:
 
-Mikrotik LHG18 LTE: 192.168.88.1
-
-Mikrotik nRay 60GHz Master: 192.168.88.2
-
-Mikrotik nRay 60GHz Slave: 192.168.88.3
-
-Router (AP mód): 192.168.88.4
-
-Switch (ha szükséges): 192.168.88.254
-
-Kliens laptop: 192.168.88.100-250 (DHCP-ből)
+1. Mikrotik LHG18 LTE: 192.168.88.1
+2. Mikrotik nRay 60GHz Master: 192.168.88.2
+3. Mikrotik nRay 60GHz Slave: 192.168.88.3
+4. Router (AP mód): 192.168.88.4
+5. Switch (ha szükséges): 192.168.88.254
+6. Kliens laptop: 192.168.88.100-250 (DHCP-ből)
 
 A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések elkerülésére, valamint az alhálózati maszk helyes beállítására (255.255.255.0).
+
+
+<img src="https://github.com/user-attachments/assets/551bf396-1a37-4d77-9239-2ffc241c70e6" alt="kep" style="width:250px;"/>  
