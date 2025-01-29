@@ -19,7 +19,7 @@ Gál Levente Máté / 1-es Csoport
 - <span style="color: #d69b1a;">04-as feladat: T Ellenáállás mérés</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/T ellenallas/index)
 ---
-- <span style="color: #d69b1a;">ASDDAS</span>
+- <span style="color: #d69b1a;">Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése</span>
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/TTK_mikrovizsga/mikrovizsga)
 ---
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="rainbow: #d69b1a; font-size: 20px;">
