@@ -93,3 +93,7 @@ A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések
 | **nRAy 1**         | -49dBm           |    2,18 m    |     90     |    1925.0 Mbps    |
 | **nRAy 2**         | -49dBm           |    2,18 m    |     90     |    1925.0 Mbps    |
 | **LHG_LTE18**      | -51dBm           |  ----------  |  -------   |    -----------    |
+
+## 5. Tesztelés és hibakeresés
+
+1 Amint megvannak az adatok, biztosra kell menni hogy minden beállítás és adat az és úgy ahogy annak lennie kell.
