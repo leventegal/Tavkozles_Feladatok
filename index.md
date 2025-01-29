@@ -20,7 +20,7 @@ Gál Levente Máté / 1-es Csoport
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/T ellenallas/index)
 ---
 - <span style="color: #d69b1a;">ASDDAS</span>
-## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/blob/main/TTK_mikrovizsga/mikrovizsga)
+## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/TTK_mikrovizsga/mikrovizsga)
 ---
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="rainbow: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
