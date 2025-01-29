@@ -20,7 +20,7 @@ Gál Levente Máté / 1-es Csoport
 ## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/T ellenallas/index)
 ---
 - <span style="color: #d69b1a;">Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése</span>
-## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/TTK_mikrovizsga/mikrovizsga)
+## [Jegyzőkönyv és Tesztelés](https://leventegal.github.io/Tavkozles_Feladatok/TTK_mikrovizsga/mikrovizsga)
 ---
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="rainbow: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
