@@ -67,3 +67,23 @@
 1. A reset gomb helyének beazonosítása után az eszközt áramtalanítani kell.
 2. Rövid várakozás után a reset gombot meg kell nyomni és lenyomva tartani.
 3. Az eszköz visszakapcsolása után a reset gombot legalább 10 másodpercig lenyomva kell tartani, amíg a gyári visszaállítás befejeződik.
+
+### 3.2.1 Hálózati topológia tervezése
+
+A hálózat tervezése során egy diagramot kell készíteni, amely tartalmazza az összes eszközt és azok kapcsolatait. Ehhez javasolt a Draw.io használata.
+
+# 3.2.2 IP-cím kiosztás:
+
+Mikrotik LHG18 LTE: 192.168.88.1
+
+Mikrotik nRay 60GHz Master: 192.168.88.2
+
+Mikrotik nRay 60GHz Slave: 192.168.88.3
+
+Router (AP mód): 192.168.88.4
+
+Switch (ha szükséges): 192.168.88.254
+
+Kliens laptop: 192.168.88.100-250 (DHCP-ből)
+
+A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések elkerülésére, valamint az alhálózati maszk helyes beállítására (255.255.255.0).
