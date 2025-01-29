@@ -84,4 +84,4 @@ A hálózat tervezése során egy diagramot kell készíteni, amely tartalmazza 
 A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések elkerülésére, valamint az alhálózati maszk helyes beállítására (255.255.255.0).
 
 
-<img src="https://github.com/user-attachments/assets/551bf396-1a37-4d77-9239-2ffc241c70e6" alt="kep" style="width:250px;"/>  
+<img src="https://github.com/user-attachments/assets/551bf396-1a37-4d77-9239-2ffc241c70e6" alt="kep"/>  
