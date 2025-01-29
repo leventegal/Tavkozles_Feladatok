@@ -96,4 +96,6 @@ A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések
 
 ## 5. Tesztelés és hibakeresés
 
-1 Amint megvannak az adatok, biztosra kell menni hogy minden beállítás és adat az és úgy ahogy annak lennie kell.
+1. Amint megvannak az adatok, biztosra kell menni hogy minden beállítás és adat az és úgy ahogy annak lennie kell.
+
+2. Ha minden tesztelve van akkor az iperf3-al **CMD-bem** le kell tölteni ezt a tesztelőt, létre kell hozni egy servert. Majd pedig a másik gépen ugyan ezt, és a másodikon tesztelni kell a hálózat gyorsaságát. Ha minden jó akkor kommunikállni fog a gép a hűlózattal.
