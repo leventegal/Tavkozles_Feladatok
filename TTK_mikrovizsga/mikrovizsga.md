@@ -88,8 +88,8 @@ A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések
 
 ## 4. Telepítési adatok
 
-|     Készülékek     |       RSSI       |   Távolság   |     |         |
-| ------------------ | ---------------- | ------------ | --- | ------- |
-| **nRAy 1**         | -49dBm           |    2,18 m    |     |         |
-| **nRAy 2**         | -49dBm           |    2,18 m    |     |         |
-| **LHG_LTE18**      | -51dBm           |  ----------  |     |         |
+|     Készülékek     |       RSSI       |   Távolság   |   Signal   |     Jelminőség    |
+| ------------------ | ---------------- | ------------ | ---------- | ----------------- |
+| **nRAy 1**         | -49dBm           |    2,18 m    |     90     |    1925.0 Mbps    |
+| **nRAy 2**         | -49dBm           |    2,18 m    |     90     |    1925.0 Mbps    |
+| **LHG_LTE18**      | -51dBm           |  ----------  |  -------   |    -----------    |
