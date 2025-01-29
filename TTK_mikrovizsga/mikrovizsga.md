@@ -42,7 +42,7 @@
 
 ---
 
-## 3. Eszközök előkésztése és telepwítése
+## 3. Eszközök előkésztése és telepítése
 
 ### 3.1 Előkészítés és tervezés
 
@@ -85,3 +85,11 @@ A hálózat kialakítása során kiemelten figyelni kell az IP-cím ütközések
 
 
 <img src="https://github.com/user-attachments/assets/551bf396-1a37-4d77-9239-2ffc241c70e6" alt="kep"/>  
+
+## 4. Telepítési adatok
+
+|     Készülékek     |       RSSI       |   Távolság   |     |         |
+| ------------------ | ---------------- | ------------ | --- | ------- |
+| **nRAy 1**         | -49dBm           |    2,18 m    |     |         |
+| **nRAy 2**         | -49dBm           |    2,18 m    |     |         |
+| **LHG_LTE18**      | -51dBm           |  ----------  |     |         |
