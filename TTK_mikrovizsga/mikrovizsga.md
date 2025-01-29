@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Gál Levente Máté
-**A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése 
+**A mérést végző neve:** Gál Levente Máté  
+**A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
 **A mérés száma:** Mikro mérés  
 **A mérés dátuma:** 2025. 01. 29.  
 **A mérést vezette:** Sándor Péter  
@@ -21,4 +21,4 @@
 ## 2. Alkalmazott eszközök
 
 - **Mikrotik LHG18 LTE antenna** (alapértelmezett IP: `192.168.188.1`)
-- <img src="https://github.com/leventegal/Tavkozles_Feladatok/blob/main/TTK_mikrovizsga/imgaes/MikroTik_LHG_LTE18_kit_1xGbE_LAN_port_LTE_CAT18_modem_17dBi_integralt_antenna_par-i39192015.jpg" alt="lhg18" style="width:150px;"/>   
+- <img src="https://github.com/leventegal/Tavkozles_Feladatok/TTK_mikrovizsga/imgaes/MikroTik_LHG_LTE18_kit_1xGbE_LAN_port_LTE_CAT18_modem_17dBi_integralt_antenna_par-i39192015.jpg" alt="lhg18" style="width:150px;"/>   
