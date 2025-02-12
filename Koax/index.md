@@ -1,10 +1,10 @@
 # MÉRÉSi JEGYZŐKÖNYV
 
-**A mérést végző neve:** Gál Levente Máté  
-**A mérés tárgya:** Koax kábel szerelése és tesztelése
-**A mérés száma:** Koax 
-**A mérés dátuma:** 2025. 02. 12.  
-**A mérést vezette:** Sándor Péter  
+**A mérést végző neve:** Gál Levente Máté    
+**A mérés tárgya:** Koax kábel szerelése és tesztelése    
+**A mérés száma:** Koax    
+**A mérés dátuma:** 2025. 02. 12.    
+**A mérést vezette:** Sándor Péter    
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 1  
