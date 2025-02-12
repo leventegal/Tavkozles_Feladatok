@@ -18,7 +18,12 @@
 
 ---
 
-### 2. Mérési adatok: 770MHz-n a kábelen 86.9dBuV volt mérhető, azaz a csillapítás mértéke 3.1
+### 2. Mérési adatok: Két mérés lett elvégezve. 1 a legkisebb és egy a majdnem legnagyobb mérhető frekvencián.
+
+|    Mérési paraméter   | RF frekvencia (MHz) |        dBuV        |Csillapítás (dB)|
+|-----------------------|---------------------|--------------------|----------------|
+| **Mérési eredmény 1** | 177.5               |        89.5        |      0.5       |
+| **Mérési eredmény 2** | 770.0               |        86.9        |      3.1       |        
 
 ---
 
@@ -35,10 +40,14 @@
 </details>
 
 <details>
-    <summary>Csillapítás mérése</summary>
+    <summary>Csillapítás mérése nagy frekvencián</summary>
     <img src="https://github.com/user-attachments/assets/1ce8c9e9-5aac-491b-a1ac-3ed9b8e7cf54">
 </details>
 
+<details>
+    <summary>Csillapítás mérése kis frekvencián</summary>
+    <img src="https://github.com/user-attachments/assets/a8c9f5e9-1e7f-43bd-ad1c-354b2a8d0d20">
+</details>
 ---
 
 **Aláírás:** Gál Levente Máté
