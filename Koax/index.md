@@ -14,15 +14,15 @@
 
 # Koax kábel szerelése és tesztelése
 
-# 1. Feladat lényege: Egy adott méretű koaxiális kábel csatlakozó felyének felhelyezése. Aztán az azon lévő csillapítás mérése.
+### 1. Feladat lényege: Egy adott méretű koaxiális kábel csatlakozó felyének felhelyezése. Aztán az azon lévő csillapítás mérése.
 
 ---
 
-# 2. A kábelen 86.9dBuV volt mérhető azaz a csillapítás mértéke 3.1
+### 2. Mérési adatok: 770MHz-n a kábelen 86.9dBuV volt mérhető, azaz a csillapítás mértéke 3.1
 
 ---
 
-# 3. Mérési képek
+## 3. Mérési képek
 
 <details>
     <summary>Koax csatlakozó</summary>
