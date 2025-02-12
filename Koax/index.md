@@ -34,20 +34,27 @@
     <img src="https://github.com/user-attachments/assets/f2c5e18a-0fbf-4c57-a207-0f614d2927ce">
 </details>
 
+---
+
 <details>
     <summary>Kábel szerelés</summary>
     <img src="https://github.com/user-attachments/assets/9f0e4967-536f-4e1a-9769-d445d91b1249">
 </details>
+
+---
 
 <details>
     <summary>Csillapítás mérése nagy frekvencián</summary>
     <img src="https://github.com/user-attachments/assets/1ce8c9e9-5aac-491b-a1ac-3ed9b8e7cf54">
 </details>
 
+---
+
 <details>
     <summary>Csillapítás mérése kis frekvencián</summary>
     <img src="https://github.com/user-attachments/assets/a8c9f5e9-1e7f-43bd-ad1c-354b2a8d0d20">
 </details>
+
 ---
 
 **Aláírás:** Gál Levente Máté
