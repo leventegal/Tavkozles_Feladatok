@@ -23,7 +23,7 @@ Gál Levente Máté / 1-es Csoport
 ## [Jegyzőkönyv és Tesztelés](https://leventegal.github.io/Tavkozles_Feladatok/TTK_mikrovizsga/mikrovizsga)
 ---
 - <span style="color: #d69b1a;">Koax kábel szerelése és mérése</span>
-## [Jegyzőkönyv és Tesztelés](https://leventegal.github.io/Tavkozles_Feladatok/Koax/index)
+## [Jegyzőkönyv](https://leventegal.github.io/Tavkozles_Feladatok/Koax/index)
 ---
 <marquee class="rainbow-text" behavior="scroll" direction="left" style="rainbow: #d69b1a; font-size: 20px;">
 Miskolci SZC Kandó Kálmán Informatikai Technikum / 13.E osztály.
