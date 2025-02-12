@@ -1,4 +1,4 @@
-![koax3](https://github.com/user-attachments/assets/d89961b3-4afe-4235-b779-df2f484b6668)# MÉRÉSi JEGYZŐKÖNYV
+# MÉRÉSi JEGYZŐKÖNYV
 
 **A mérést végző neve:** Gál Levente Máté  
 **A mérés tárgya:** Koax kábel szerelése és tesztelése
